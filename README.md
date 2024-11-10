@@ -16,7 +16,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fffefe&line=41b883&color=41b883&area=true&point=41b883" width=94%/>
 </a>
-
+<br>
 <br>
 <br>
 
@@ -33,11 +33,10 @@
 <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </summary>
 <br>
-
 </details>
 
 <br>
-<br><br><br>
+<br>
 
 
 <img src="https://github.com/Hayeong-Jeon/Hayeong-Jeon/blob/output/github-contribution-grid-snake.svg"/>
