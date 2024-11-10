@@ -29,10 +29,10 @@ Skills I've used
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fffefe&line=41b883&color=41b883&area=true&point=41b883" width=94%/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHayeong-Jeon&count_bg=%23586AFF&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
+<br><br><br>
 
 
 <img src="https://github.com/Hayeong-Jeon/Hayeong-Jeon/blob/output/github-contribution-grid-snake.svg"/>
