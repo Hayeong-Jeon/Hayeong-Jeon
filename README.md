@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </summary>
-
+<details>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
