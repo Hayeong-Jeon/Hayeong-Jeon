@@ -21,6 +21,8 @@
 <br>
 
 </details>
+
+<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeong-Jeon&layout=donut&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
