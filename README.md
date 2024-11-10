@@ -30,7 +30,7 @@ Skills I've used
 </a>
 
 
-<img src="https://github.com/Hayeong-Jeon/Hayeong-Jeon/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/{Hayeong-Jeon}/{Hayeong-Jeon}/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <br>
