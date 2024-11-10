@@ -1,7 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=B1F7CC&width=435&lines=Hello%3F+Welcome!;HaYeong's+GitHup+%3A)" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=B1F7CC&width=435&lines=HaYeong's+GitHup+%3A)" alt="Typing SVG" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cdf7ca,10:c3d7b9,30:cdd6f4,75:d9d3e8,100:c29df1&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=B1F7CC&width=435&lines=Hello%3F+Welcome!;HaYeong's+GitHup+%3A)" alt="Typing SVG" /></a>
 
 <br>
 
