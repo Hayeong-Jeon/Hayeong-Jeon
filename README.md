@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeong-Jeon&layout=donut&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayeong-Jeon&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hayeong-Jeon&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&rank_icon=github" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fffefe&line=41b883&color=41b883&area=true&point=41b883" width=94%/>
