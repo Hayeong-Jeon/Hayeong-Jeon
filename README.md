@@ -36,7 +36,6 @@
 </details>
 
 <br>
-<br>
 
 
 <img src="https://github.com/Hayeong-Jeon/Hayeong-Jeon/blob/output/github-contribution-grid-snake.svg"/>
