@@ -34,4 +34,4 @@ Skills I've used
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cdf7ca,10:b8deb5,30:a4c5a1,75:8fac8d,100:7b9479&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cdf7ca,10:c3d7b9,30:cdd6f4,75:d9d3e8,100:c29df1&height=40&section=footer&text=&fontSize=0" width="100%"/>
