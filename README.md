@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?<img src="https://readme-typing-svg.herokuapp.com/?type=waving&color=0:1E1E2F,10:41B883,30:F7B733,75:FF6F61,100:FFFFFF&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?<img src="https://readme-typing-svg.herokuapp.com/?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
 
