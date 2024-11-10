@@ -4,6 +4,18 @@
 
 <br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeong-Jeon&layout=donut&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hayeong-Jeon&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fffefe&line=41b883&color=41b883&area=true&point=41b883" width=94%/>
+</a>
+
+<br>
+
 Skills I've used
 <br>
 <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
@@ -17,21 +29,14 @@ Skills I've used
 <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hayeong-Jeon&layout=donut&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayeong-Jeon&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true" width=56% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fffefe&line=41b883&color=41b883&area=true&point=41b883" width=94%/>
-</a>
+<br>
 
 
 <img src="https://github.com/Hayeong-Jeon/Hayeong-Jeon/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:cdf7ca,10:c3d7b9,30:cdd6f4,75:d9d3e8,100:c29df1&height=40&section=footer&text=&fontSize=0" width="100%"/>
