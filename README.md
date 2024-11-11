@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hayeong-Jeon&show_icons=true&theme=vue-palenight&bg_color=fffefe&icon_color=41b883&text_color=273849&title_color=41b883&count_private=true&rank_icon=github" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fbfefa&line=41b883&color=41b883&area=true&point=41b883&area_color=a4c5a1&hide_border=false&exclude=Hayeong-Jeon" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hayeong-Jeon&theme=react-dark&bg_color=fbfefa&line=41b883&color=41b883&area=true&point=41b883&area_color=a4c5a1&hide_border=false" width=94%/>
 </a>
 <br>
 <br>
